@@ -1,0 +1,14 @@
+{
+  "project": "srinivasa-ramanujan-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "Hp7MB5otpm8oWShEdYKMrvCxXtKzvDcMZLf3DFhopWKy",
+  "vault_account": "4UzsvsoWxJ9vPavKeP4GZjywGwVsXUJ3p82PupppskG4",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "2wS3qAAQ8umijvA2g5f8AbnPcUoHhYxgbZQTvXR9GY4Nuf9dBd6JRpRmvmQT8EQhZYSpmj43dcr2SoPbG9VWPteu",
+  "account_tx": "3EstYMiYFGasMbWDNwRCU6SiVSJ9FRUESR4o6j7xDceKbHaZXhKbX4EHmh3Sz7oR5ptWbv42PbDJpvkJCigj4Cx",
+  "mint_tx": "3xCajUzjuMnqhNYPEU3dKeEXJE5hdoxivUpQgVYERiMiETGo9jTeUux3J414vLxZk8uZbEGdJ5XdTXVEaKme98Xk",
+  "solana_explorer_mint": "https://explorer.solana.com/address/Hp7MB5otpm8oWShEdYKMrvCxXtKzvDcMZLf3DFhopWKy?cluster=devnet",
+  "timestamp": "2026-10-26 16:58:30 UTC"
+}
